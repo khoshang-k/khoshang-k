@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Khoshang</h1>
-<h3 align="center">I am interested mainly in competitive programming, but also want my hands skilled in world of dev.</h3>
+<h1 align="left">Hi 👋, I'm Khoshang</h1>
+<h3 align="left">Just another Sophomore at ABV-IIITM, Gwalior</h3>
 
-- 🌱 I’m currently learning **React.js,Node.js**
+- 🌱 I’m currently learning **React.js, Node.js**
 
 - 📫 How to reach me **khoshangkashyap123@gmail.com**
+  
+- I am interested mainly in competitive programming, but also want my hands skilled in world of dev.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
