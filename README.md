@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
-- 📫 How to reach me **khoshangkashyap123@gmail.com**
+- 📫 How to reach me **khoshangkashyap@gmail.com**
   
 - I am interested mainly in competitive programming, but also want my hands skilled in world of dev.
 
@@ -12,7 +12,7 @@
 <a href="https://twitter.com/khoshangk6537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khoshangk6537" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khoshang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoshang kashyap" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khkazz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khkazz" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/khka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khka" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/khkazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khkazz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khkazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khkazz" height="30" width="40" /></a>
 </p>
 
