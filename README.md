@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Khoshang</h1>
-<h3 align="left">Just another 3rd Year Student at ABV-IIITM, Gwalior</h3>
+<h3 align="left">Just another 4th Year Student at ABV-IIITM, Gwalior</h3>
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
